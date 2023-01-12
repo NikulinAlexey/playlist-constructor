@@ -5,5 +5,4 @@
 
 В этом проекте я использую возможности HTML, CSS, а так же манипуляции с DOM.
 
-Проект выполнен по макету в редакторе **Figma**:
 * [Ссылка на сайт](https://nikulinalexey.github.io/playlist-constructor/)
